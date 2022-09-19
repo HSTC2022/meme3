@@ -1,0 +1,59 @@
+{
+    "name": "react-18-redux-jwt-authentication-example",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@hookform/resolvers": "^2.9.0",
+        "@reduxjs/toolkit": "^1.8.2",
+        "@walletconnect/web3-provider": "^1.7.8",
+        "axios": "^0.27.2",
+        "nft.storage": "^6.4.1",
+        "react": "^18.2.0",
+        "react-app-rewired": "^2.2.1",
+        "react-avatar": "^5.0.1",
+        "react-bootstrap": "^2.4.0",
+        "react-dom": "^18.2.0",
+        "react-hook-form": "^7.33.1",
+        "react-js-pagination": "^3.0.3",
+        "react-redux": "^8.0.1",
+        "react-router-dom": "^6.3.0",
+        "react-scripts": "^5.0.1",
+        "react-spinners": "^0.13.4",
+        "sass": "^1.53.0",
+        "web3": "^1.7.4",
+        "web3modal": "^1.9.8",
+        "yup": "^0.32.11"
+    },
+    "scripts": {
+        "start": "react-app-rewired start",
+        "build": "react-app-rewired build"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "assert": "^2.0.0",
+        "buffer": "^6.0.3",
+        "crypto-browserify": "^3.12.0",
+        "https-browserify": "^1.0.0",
+        "os-browserify": "^0.3.0",
+        "process": "^0.11.10",
+        "stream-browserify": "^3.0.0",
+        "stream-http": "^3.2.0",
+        "url": "^0.11.0"
+    }
+}
